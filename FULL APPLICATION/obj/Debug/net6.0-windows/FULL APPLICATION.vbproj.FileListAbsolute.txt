@@ -1,0 +1,17 @@
+D:\PERSONAL\Education\Programming\DOT NET\C#\Practice 3\FULL APPLICATION\FULL APPLICATION\bin\Debug\net6.0-windows\FULL APPLICATION.exe
+D:\PERSONAL\Education\Programming\DOT NET\C#\Practice 3\FULL APPLICATION\FULL APPLICATION\bin\Debug\net6.0-windows\FULL APPLICATION.deps.json
+D:\PERSONAL\Education\Programming\DOT NET\C#\Practice 3\FULL APPLICATION\FULL APPLICATION\bin\Debug\net6.0-windows\FULL APPLICATION.runtimeconfig.json
+D:\PERSONAL\Education\Programming\DOT NET\C#\Practice 3\FULL APPLICATION\FULL APPLICATION\bin\Debug\net6.0-windows\FULL APPLICATION.dll
+D:\PERSONAL\Education\Programming\DOT NET\C#\Practice 3\FULL APPLICATION\FULL APPLICATION\bin\Debug\net6.0-windows\FULL APPLICATION.pdb
+D:\PERSONAL\Education\Programming\DOT NET\C#\Practice 3\FULL APPLICATION\FULL APPLICATION\obj\Debug\net6.0-windows\FULL APPLICATION.vbproj.AssemblyReference.cache
+D:\PERSONAL\Education\Programming\DOT NET\C#\Practice 3\FULL APPLICATION\FULL APPLICATION\obj\Debug\net6.0-windows\FULL_APPLICATION.Form1.resources
+D:\PERSONAL\Education\Programming\DOT NET\C#\Practice 3\FULL APPLICATION\FULL APPLICATION\obj\Debug\net6.0-windows\FULL APPLICATION.vbproj.GenerateResource.cache
+D:\PERSONAL\Education\Programming\DOT NET\C#\Practice 3\FULL APPLICATION\FULL APPLICATION\obj\Debug\net6.0-windows\FULL APPLICATION.GeneratedMSBuildEditorConfig.editorconfig
+D:\PERSONAL\Education\Programming\DOT NET\C#\Practice 3\FULL APPLICATION\FULL APPLICATION\obj\Debug\net6.0-windows\FULL APPLICATION.AssemblyInfoInputs.cache
+D:\PERSONAL\Education\Programming\DOT NET\C#\Practice 3\FULL APPLICATION\FULL APPLICATION\obj\Debug\net6.0-windows\FULL APPLICATION.AssemblyInfo.vb
+D:\PERSONAL\Education\Programming\DOT NET\C#\Practice 3\FULL APPLICATION\FULL APPLICATION\obj\Debug\net6.0-windows\FULL APPLICATION.vbproj.CoreCompileInputs.cache
+D:\PERSONAL\Education\Programming\DOT NET\C#\Practice 3\FULL APPLICATION\FULL APPLICATION\obj\Debug\net6.0-windows\FULL APPLICATION.dll
+D:\PERSONAL\Education\Programming\DOT NET\C#\Practice 3\FULL APPLICATION\FULL APPLICATION\obj\Debug\net6.0-windows\refint\FULL APPLICATION.dll
+D:\PERSONAL\Education\Programming\DOT NET\C#\Practice 3\FULL APPLICATION\FULL APPLICATION\obj\Debug\net6.0-windows\FULL APPLICATION.pdb
+D:\PERSONAL\Education\Programming\DOT NET\C#\Practice 3\FULL APPLICATION\FULL APPLICATION\obj\Debug\net6.0-windows\FULL APPLICATION.genruntimeconfig.cache
+D:\PERSONAL\Education\Programming\DOT NET\C#\Practice 3\FULL APPLICATION\FULL APPLICATION\obj\Debug\net6.0-windows\ref\FULL APPLICATION.dll
